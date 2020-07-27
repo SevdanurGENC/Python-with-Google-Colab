@@ -14,7 +14,4 @@ In simple words Colab is a free hosted Jupyter notebook with access to GPU.
     The recommended way is to upload your data to Google Drive then mount the drive in the Runtime  
     
 * Colab provides integration with Github. It's possible to load notebooks directly from repositories 
-and commit changes made in Colab. However, there are some limitations  
- 
-* Accessing data on Google Drive 
-* Integration with Github  
+and commit changes made in Colab. However, there are some limitations   
